@@ -1,0 +1,15 @@
+C:\Users\555\OneDrive\Masaüstü\overloading\overloading\obj\Debug\net6.0\overloading.csproj.AssemblyReference.cache
+C:\Users\555\OneDrive\Masaüstü\overloading\overloading\obj\Debug\net6.0\overloading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\555\OneDrive\Masaüstü\overloading\overloading\obj\Debug\net6.0\overloading.AssemblyInfoInputs.cache
+C:\Users\555\OneDrive\Masaüstü\overloading\overloading\obj\Debug\net6.0\overloading.AssemblyInfo.cs
+C:\Users\555\OneDrive\Masaüstü\overloading\overloading\obj\Debug\net6.0\overloading.csproj.CoreCompileInputs.cache
+C:\Users\555\OneDrive\Masaüstü\overloading\overloading\bin\Debug\net6.0\overloading.exe
+C:\Users\555\OneDrive\Masaüstü\overloading\overloading\bin\Debug\net6.0\overloading.deps.json
+C:\Users\555\OneDrive\Masaüstü\overloading\overloading\bin\Debug\net6.0\overloading.runtimeconfig.json
+C:\Users\555\OneDrive\Masaüstü\overloading\overloading\bin\Debug\net6.0\overloading.dll
+C:\Users\555\OneDrive\Masaüstü\overloading\overloading\bin\Debug\net6.0\overloading.pdb
+C:\Users\555\OneDrive\Masaüstü\overloading\overloading\obj\Debug\net6.0\overloading.dll
+C:\Users\555\OneDrive\Masaüstü\overloading\overloading\obj\Debug\net6.0\refint\overloading.dll
+C:\Users\555\OneDrive\Masaüstü\overloading\overloading\obj\Debug\net6.0\overloading.pdb
+C:\Users\555\OneDrive\Masaüstü\overloading\overloading\obj\Debug\net6.0\overloading.genruntimeconfig.cache
+C:\Users\555\OneDrive\Masaüstü\overloading\overloading\obj\Debug\net6.0\ref\overloading.dll
